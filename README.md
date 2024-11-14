@@ -26,12 +26,6 @@ jupyter notebook
 5. Ensure you have the required dependencies installed.
 
 
-## Hyperparameter Tuning
-This notebook also demonstrates hyperparameter tuning using two popular techniques:
-1. Grid Search: Grid search exhaustively searches through a manually specified subset of the hyperparameter space of a learning algorithm. It evaluates the model performance for each combination of hyperparameters and selects the combination with the best performance.
-
-2. Random Search: Random search randomly samples hyperparameter combinations from the specified hyperparameter space. It then evaluates the model performance for each combination and selects the combination with the best performance.
-
 
 ## File Structure
  - `ciciot.ipynb`: Jupyter Notebook containing the implementation of the KNN algorithm and hyperparameter tuning.
